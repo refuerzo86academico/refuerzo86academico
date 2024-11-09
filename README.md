@@ -7,7 +7,7 @@
 ## Sobre mi
 
 - ⭐ Estudiando "Cs de la atmósfera" en UBA 
-- 📲 Rsrudio
+- 📲 Rstudio
 - 🎥 Enseño matemáticas.
 - 🧑‍🏫 Creador de [refuerzo86escolar](https://www.instagram.com/refuerzo.escolar86/)
 
